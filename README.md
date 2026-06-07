@@ -202,7 +202,7 @@ Selects the best model based on evaluation metrics.
 Add your project screenshot here:
 
 ```markdown
-![Project Output](screenshot.png)
+!screenshots/Screenshot.png
 ```
 
 ---
