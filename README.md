@@ -199,11 +199,7 @@ Selects the best model based on evaluation metrics.
 
 ##  Output Screenshot
 
-Add your project screenshot here:
-
-```markdown
 screenshots/Screenshot.png
-```
 
 ---
 
